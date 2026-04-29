@@ -1,0 +1,10 @@
+body {
+  font-family: Arial;
+  max-width: 900px;
+  margin: auto;
+  line-height: 1.6;
+}
+
+nav a {
+  margin-right: 10px;
+}
